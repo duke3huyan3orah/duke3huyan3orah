@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300" />
+</p>
 <h1 align="center">Hey there 👋, I'm Duke</h1>
 <h3 align="center">✨ Blending the Aesthetics of the Past with the Power of Modern Tech ✨</h3>
 
@@ -11,7 +14,7 @@ Tech keeps me in awe — especially how it continuously reshapes our world.
 📊 I enjoy building **Streamlit applications**, working on **data analysis**,  
 and crafting meaningful projects that bring ideas to life.  
 
-🎯 **15+ Projects** across mechanics and tech domains  
+🎯 **30+ Projects** across mechanics and tech domains  
 🏛️ **IIT Guwahati** — Model Making (2024) | AI & ML Workshop (2025)
 
 ---
@@ -41,7 +44,7 @@ and crafting meaningful projects that bring ideas to life.
 
 ---
 
-### 💡 Motto
+### 💡 ^^ :)
 > *"Doing Whatever My Brain Asks Me To Do."*
 
 ---
@@ -51,7 +54,7 @@ and crafting meaningful projects that bring ideas to life.
   <a href="www.linkedin.com/in/duke3huyan3orah" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:YOUR.EMAIL@example.com">
+  <a href="mailto:hack.lhe.world@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
