@@ -16,7 +16,7 @@ and crafting meaningful projects that bring ideas to life.
 
 🎯 **30+ Projects** across mechanics and tech domains  
 🏛️ **IIT Guwahati** — Model Making (2024) | AI & ML Workshop (2025)
-    **IIT Roorkee** — Astrophysics Internship Program (2025)
+🏛️ **IIT Roorkee** — Astrophysics Internship Program (2025)
 
 ---
 
