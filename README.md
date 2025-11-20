@@ -31,7 +31,7 @@ and crafting meaningful projects that bring ideas to life.
 - Expanding my knowledge in **Machine Learning**  
 - Exploring **Mechanical Modelling + AI** integrations  
 - Building more elegant **Streamlit dashboards**  
-- *Jack of all trades, master of some ~none~ * 🧩
+- *Jack of all trades, master of ~none~ some* 🧩
 
 ---
 
