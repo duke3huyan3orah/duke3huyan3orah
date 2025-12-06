@@ -28,12 +28,11 @@ Tech continuously amazes me — how it shapes, rebuilds, and redefines our world
 
 ---
 
-### 🚀 What I’m Currently Building
-- 🧩 **AI Meme Generator** – text → meme → caption  
-- 💬 **Quote CLI** – terminal-based daily quotes with a twist  
-- 💻 **Retro “Duke OS”** – a browser OS with fake apps, startup sound, and nostalgia  
-- 🌅 **Portfolio that Changes with Time** – morning, day, and night themes  
-- 💥 *Something big brewing... “Project RealityLink” (more below 👀)*
+### 🚀 Current Focus
+- Expanding my knowledge in **Machine Learning**
+- Exploring **Mechanical Modelling + AI** integrations
+- Building more elegant **Streamlit dashboards**
+- *Jack of all trades, master of ~none~ some* 🧩
 
 ---
 
@@ -47,7 +46,7 @@ Tech continuously amazes me — how it shapes, rebuilds, and redefines our world
 
 ---
 
-### 💬 Motto
+### ^^
 > *"Doing whatever my brain whispers to do — and sometimes what it screams."*
 
 ---
