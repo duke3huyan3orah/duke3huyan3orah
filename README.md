@@ -1,58 +1,60 @@
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300" />
 </p>
-<h1 align="center">Hey there 👋, I'm Duke</h1>
+
+<h1 align="center">Hey there 👋, I'm <span style="color:#00BFFF;">Duke</span></h1>
 <h3 align="center">✨ Blending the Aesthetics of the Past with the Power of Modern Tech ✨</h3>
 
 ---
 
 ### 🧠 About Me
-I’m a curious soul who loves exploring the synergy between **mechanics** and **technology**.  
-Tech keeps me in awe — especially how it continuously reshapes our world.  
+I’m a **curious explorer** fascinated by the intersection of **mechanics**, **technology**, and **art**.  
+Tech continuously amazes me — how it shapes, rebuilds, and redefines our world every single day.  
 
-💻 I work with **C++**, **Python**, and I’m diving deep into **AI & ML**.  
-📊 I enjoy building **Streamlit applications**, working on **data analysis**,  
-and crafting meaningful projects that bring ideas to life.  
+💻 Working with **C++**, **Python**, and exploring **AI & ML**  
+📊 Passionate about **Streamlit**, **data visualization**, and creative coding  
+🚀 Always chasing the next *“that’s cool”* idea  
 
-🎯 **30+ Projects** across mechanics and tech domains  
-🏛️ **IIT Guwahati** — Model Making (2024) | AI & ML Workshop (2025)   
-     **IIT Roorkee** — Astrophysics Internship Program (2025)
+🎯 **30+ Projects** spanning mechanics, AI, and creative tech  
+🏛️ **IIT Guwahati** – Model Making (2024) | AI & ML Workshop (2025)  
+🪐 **IIT Roorkee** – Astrophysics Internship Program (2025)
 
 ---
 
 ### ⚙️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,git,streamlit,tensorflow,pytorch,sklearn,vscode,github" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,git,streamlit,tensorflow,pytorch,sklearn,vscode,github,html,css,js,tailwind" />
 </p>
 
 ---
 
-### 🚀 Current Focus
-- Expanding my knowledge in **Machine Learning**  
-- Exploring **Mechanical Modelling + AI** integrations  
-- Building more elegant **Streamlit dashboards**  
-- *Jack of all trades, master of ~none~ some* 🧩
+### 🚀 What I’m Currently Building
+- 🧩 **AI Meme Generator** – text → meme → caption  
+- 💬 **Quote CLI** – terminal-based daily quotes with a twist  
+- 💻 **Retro “Duke OS”** – a browser OS with fake apps, startup sound, and nostalgia  
+- 🌅 **Portfolio that Changes with Time** – morning, day, and night themes  
+- 💥 *Something big brewing... “Project RealityLink” (more below 👀)*
 
 ---
 
 ### 🌌 Beyond Code
-- 🌠 **Astrophile** – gazing beyond the stars  
-- 🎸 **Guitarist** & 🎧 **Music Lover**  
+- 🌠 **Astrophile** – drawn to the universe’s mysteries  
+- 🎸 **Guitarist** & 🎧 **Music Nerd**  
 - ✍️ **Poet** | 📸 **Photographer**  
-- 🥋 **Martial Artist** – 3× National & 6× State Medals  
+- 🥋 **Martial Artist** – 3× National | 6× State medals  
   *(Muay Thai | Vovinam | Pencak Silat | Fencing)*  
-- ➗ **Math Geek** with a love for patterns and precision  
+- ➗ **Math Enthusiast** who sees beauty in logic and patterns  
 
 ---
 
-### ^^ :)
-> *"Doing Whatever My Brain Asks Me To Do."*
+### 💬 Motto
+> *"Doing whatever my brain whispers to do — and sometimes what it screams."*
 
 ---
 
-### 🌐 Let's Connect!
+### 🌐 Let’s Connect!
 <p align="center">
-  <a href="www.linkedin.com/in/duke3huyan3orah">
+  <a href="https://www.linkedin.com/in/duke3huyan3orah" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:hack.lhe.world@gmail.com">
@@ -62,4 +64,4 @@ and crafting meaningful projects that bring ideas to life.
 
 ---
 
-⭐ *Thanks for stopping by! Feel free to explore my repositories and projects.*
+⭐ *Thanks for dropping by! Explore my projects — you might just find something unexpected.*
