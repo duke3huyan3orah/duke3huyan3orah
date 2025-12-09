@@ -47,7 +47,7 @@ Tech continuously amazes me — how it shapes, rebuilds, and redefines our world
 ---
 
 ### ^^
-> *"Doing whatever my brain whispers to do — and sometimes what it screams."*
+> *"Doing Whatever My Brain Asks Me To Do"*
 
 ---
 
