@@ -15,7 +15,7 @@ Tech continuously amazes me — how it shapes, rebuilds, and redefines our world
 📊 Passionate about **Streamlit**, **data visualization**, and creative coding  
 🚀 Always chasing the next *“that’s cool”* idea  
 
-🎯 **30+ Projects** spanning mechanics, AI, and creative tech  
+🎯 **60+ Projects** spanning mechanics, AI, and creative tech  
 🏛️ **IIT Guwahati** – Model Making (2024) | AI & ML Workshop (2025)  
 🪐 **IIT Roorkee** – Astrophysics Internship Program (2025)
 
