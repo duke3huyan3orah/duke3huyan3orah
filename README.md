@@ -1,66 +1,145 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300" />
-</p>
+````markdown
+<div align="center">
 
-<h1 align="center">Hey there 👋, I'm <span style="color:#00BFFF;">Duke</span></h1>
-<h3 align="center">✨ Blending the Aesthetics of the Past with the Power of Modern Tech ✨</h3>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="700"/>
 
----
+# Duke
 
-### 🧠 About Me
-I’m a **curious explorer** fascinated by the intersection of **mechanics**, **technology**, and **art**.  
-Tech continuously amazes me — how it shapes, rebuilds, and redefines our world every single day.  
+### Blending the Aesthetics of the Past with the Power of Modern Tech
 
-💻 Working with **C++**, **Python**, and exploring **AI & ML**  
-📊 Passionate about **Streamlit**, **data visualization**, and creative coding  
-🚀 Always chasing the next *“that’s cool”* idea  
-
-🎯 **60+ Projects** spanning mechanics, AI, and creative tech  
-🏛️ **IIT Guwahati** – Model Making (2024) | AI & ML Workshop (2025)  
-🪐 **IIT Roorkee** – Astrophysics Internship Program (2025)
+</div>
 
 ---
 
-### ⚙️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,git,streamlit,tensorflow,pytorch,sklearn,vscode,github,html,css,js,tailwind" />
-</p>
+```text
+┌────────────────────────────────────────────────────────────────────────────┐
+│                               ABOUT ME                                     │
+└────────────────────────────────────────────────────────────────────────────┘
+```
+
+I am a curious builder fascinated by the intersection of **Mechanics**, **Artificial Intelligence**, and **Creative Engineering**.
+
+I enjoy understanding how systems work, then building something that pushes them a little further. Whether it's machine learning, mechanical modelling, data visualization, or experimental projects, I love creating things simply because they're interesting.
+
+```
+Languages      :: C++, Python
+Interests      :: AI • Machine Learning • Mechanics • Data Visualization
+Currently      :: Learning ML, Building Streamlit Applications
+Mindset        :: Build. Break. Learn. Repeat.
+Projects       :: 60+
+```
+
+**Academic Highlights**
+
+- IIT Guwahati — Model Making (2024)
+- IIT Guwahati — AI & ML Workshop (2025)
+- IIT Roorkee — Astrophysics Internship Program (2025)
 
 ---
 
-### 🚀 Current Focus
-- Expanding my knowledge in **Machine Learning**
-- Exploring **Mechanical Modelling + AI** integrations
-- Building more elegant **Streamlit dashboards**
-- *Jack of all trades, master of ~none~ some* 🧩
+```text
+┌────────────────────────────────────────────────────────────────────────────┐
+│                              TECH STACK                                    │
+└────────────────────────────────────────────────────────────────────────────┘
+```
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,git,github,vscode,streamlit,tensorflow,pytorch,sklearn,html,css,js,tailwind"/>
+
+</div>
 
 ---
 
-### 🌌 Beyond Code
-- 🌠 **Astrophile** – drawn to the universe’s mysteries  
-- 🎸 **Guitarist** & 🎧 **Music Nerd**  
-- ✍️ **Poet** | 📸 **Photographer**  
-- 🥋 **Martial Artist** – 3× National | 6× State medals  
-  *(Muay Thai | Vovinam | Pencak Silat | Fencing)*  
-- ➗ **Math Enthusiast** who sees beauty in logic and patterns  
+```text
+┌────────────────────────────────────────────────────────────────────────────┐
+│                             CURRENT FOCUS                                  │
+└────────────────────────────────────────────────────────────────────────────┘
+```
+
+```
+> Expanding Machine Learning knowledge
+
+> Mechanical Modelling + AI
+
+> Elegant Streamlit Dashboards
+
+> Building software that is simple, fast and useful
+
+> Becoming a multidisciplinary engineer
+```
 
 ---
 
-### ^^
-> *"Doing Whatever My Brain Asks Me To Do"*
+```text
+┌────────────────────────────────────────────────────────────────────────────┐
+│                           BEYOND PROGRAMMING                               │
+└────────────────────────────────────────────────────────────────────────────┘
+```
+
+```
+Astrophysics
+Mathematics
+Photography
+Poetry
+Guitar
+Music
+Martial Arts
+```
+
+**Martial Arts**
+
+```
+National Medals : 3
+State Medals    : 6
+
+Disciplines
+-------------
+Muay Thai
+Vovinam
+Pencak Silat
+Fencing
+```
 
 ---
 
-### 🌐 Let’s Connect!
-<p align="center">
-  <a href="https://www.linkedin.com/in/duke3huyan3orah" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:hack.lhe.world@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+```text
+┌────────────────────────────────────────────────────────────────────────────┐
+│                               PHILOSOPHY                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+```
+
+> *"I build whatever my curiosity demands."*
 
 ---
 
-⭐ *Thanks for dropping by! Explore my projects — you might just find something unexpected.*
+```text
+┌────────────────────────────────────────────────────────────────────────────┐
+│                                CONNECT                                     │
+└────────────────────────────────────────────────────────────────────────────┘
+```
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/duke3huyan3orah">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:hack.lhe.world@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+```
+"There is always another idea worth building."
+```
+
+*"Thanks for stopping by. Explore the repositories and see what curiosity can create."*
+
+</div>
+````
